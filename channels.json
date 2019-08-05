@@ -1,0 +1,36 @@
+{
+  "channels": [
+    {
+      "id": "UCP_PDGASgHw-oROZhB8s2EQ",
+      "name": "Riskinner",
+      "facebook": "riskinner",
+      "instagram": "risk1nner",
+      "twitch": "risk1nner",
+      "twitter": "risk1nner"
+    },
+    {
+      "id": "UCmJ_hXWYhk3FHenOOmbjUmQ",
+      "name": "Oriano",
+      "facebook": "orianofl",
+      "instagram": "marciooriano",
+      "twitch": null,
+      "twitter": null
+    },
+    {
+      "id": "UClwE9rsi8tOscwhghsMjUBA",
+      "name": "Rocha",
+      "facebook": null,
+      "instagram": "rochafe7",
+      "twitch": null,
+      "twitter": "kb4rocha"
+    },
+    {
+      "id": "UCIpbaR1TR4GrFckNNnrXA4w",
+      "name": "Taker Beto",
+      "facebook": null,
+      "instagram": "takerbeto",
+      "twitch": null,
+      "twitter": null
+    }
+  ]
+}
